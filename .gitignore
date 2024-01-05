@@ -1,5 +1,7 @@
 node_modules/* 
 ._.*
+._*
 .nyc_output/*
 coverage.lcov
 coverage/*
+main.js
