@@ -8,6 +8,7 @@ const mutualfund = require('./lib/mutualfund');
 const stock = require('./lib/stock');
 const market = require('./lib/market');
 const search = require('./lib/search');
+const v4Routes= require('./lib/v4Routes')
 const auth = require('./lib/auth');
 
 
@@ -22,6 +23,8 @@ module.exports = (apikey) => {
       search: search,
       commodities: commodities,
       etf: etf,
-      mutualfund: mutualfund
+      mutualfund: mutualfund,
+      v4Routes: v4Routes 
+
   }
 }
