@@ -1,34 +1,29 @@
 {
-  "name": "financialmodelingprep",
-  "version": "1.1.0",
+  "name": "fmpclouds",
+  "version": "1.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "nyc --all mocha --timeout 10000",
     "coverage": "nyc report --reporter=text-lcov > coverage.lcov"
   },
-  "keywords": [
-    "financialmodelingprep",
-    "financial modeling prep",
+  "keywords": [ 
     "stocks",
     "api",
     "stock market api",
-    "stock market",
-    "financial api",
-    "financial data",
-    "financial"
+    "stock market" 
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patelneel55/financialmodelingprep.git"
+    "url": "git+https://github.com/viswatj/fmpcloud//financialmodelingprep.git"
   },
-  "author": "Neel Patel <patelneel55@gmail.com> (https://github.com/patelneel55)",
+  "author": "Neel Patel <viswa.isttm@gmail.com> (https://github.com/viswatj/fmpcloud/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patelneel55/financialmodelingprep/issues",
+    "url": "https://github.com/viswatj/fmpcloud/issues",
     "email": "patelneel55@gmail.com"
   },
-  "homepage": "https://github.com/patelneel55/financialmodelingprep",
+  "homepage": "https://github.com/viswatj/fmpcloud/",
   "dependencies": {
     "axios": ">=0.19.2"
   },
