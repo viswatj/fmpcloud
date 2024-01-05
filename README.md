@@ -2,9 +2,7 @@
 
 This module is a node wrapper for the free [Financial Modeling Prep API](https://financialmodelingprep.com/developer/docs). This node application implements almost all aspects of the FMP API.
 
-[![Travis CI](https://travis-ci.org/patelneel55/financialmodelingprep.svg?branch=master)](https://travis-ci.org/patelneel55/financialmodelingprep)
-[![codecov](https://codecov.io/gh/patelneel55/financialmodelingprep/branch/master/graph/badge.svg)](https://codecov.io/gh/patelneel55/financialmodelingprep)
-
+ 
 ## About FinancialModelingPrep
 
 The FMP API offers different types of data ranging from stock prices and historical data to financial statements and market performance. The complete API documentation is available [here](https://financialmodelingprep.com/developer/docs).
@@ -140,4 +138,4 @@ Contributions are welcome! The purpose of this npm package is to create a node w
 Before you open any pull requests, make sure the code structure follows the function calls provided above and the test suite passes, which can be checked by running `npm test`. If possible try to keep the coverage of your code at ~100% to ensure future regression stability.
 
 # Contact
-- Neel Patel (patelneel55@gmail.com)
+- viswa (viswa.isttm@gmail.com)
