@@ -13,7 +13,7 @@ I have no affiliation with FinancialModelingPrep and its web API development.
 
 ## Installation
 ```bash
-npm install --save financialmodelingprep
+npm install --save fmpclouds
 ```
 
 ## Usage
